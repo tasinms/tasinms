@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Tasin" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I+Love+Learning;I+Love+Web+Development;I+Love+Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;I+Love+Learning;I+Love+Web+Development;I+Love+Machine+Learning" alt="Typing SVG" /></a>
 </p>
 
 <!-- <p>
@@ -24,6 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
 </div>
 </p>
+<!-- Languages -->
 
 <!-- Frameworks -->
 <p>
@@ -34,6 +32,7 @@
 <!--   <img src="https://img.shields.io/badge/LaTex-008080.svg?style=flat&logo=latex&logoColor=FFFFFF"> -->
 </div>
 </p>
+<!-- Frameworks -->
 
 <!-- IDEs -->
 <p>
@@ -42,6 +41,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
 </p>
+<!-- IDEs -->
 
 <!-- Operating Systems -->
 <p>
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
 </div>
 </p>
+<!-- Operating Systems -->
 
 <!-- Git -->
 <p>
@@ -58,6 +59,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white">
 </div>
 </p>
+<!-- Git -->
 
 <!-- Databases -->
 <p>
@@ -65,63 +67,59 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=black">
 </div>
 </p>
+<!-- Databases -->
 
-<!-- <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Pycharm-5C2D91.svg?style=flat&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white">
-</div>
-</p> -->
-
-<!-- <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=flat&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
-</div>
-</p> -->
-
-<!-- <p align="center">Contact me:</p>
-<p>
-<div align="center">
-	<a href="https://discord.com/users/605010128521003008" rel="nofollow">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
-  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-	</a>
-	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-	</a>
-</div>
-</p> -->
-
-<!-- # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<p align="left">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">
-  </a>
-</p>
-<br> -->
-
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+<!-- Contact -->
+<p align="center"><b>Let's Get In Touch!</b></p>
 
 <!-- <p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrinworx&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&repeat=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a>
 </p> -->
 
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p> -->
+<p>
+<div align="center">
+	<a href="#" rel="nofollow" target="_blank">
+	 	<img alt="Tasin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
+		     style="max-width: 100%;">
+	</a>
+	<a href="#" rel="nofollow" target="_blank">
+  		<img alt=" Tasin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
+		     style="max-width: 100%;">
+	</a>
+	<a href="https://www.linkedin.com/in/tasinms/" rel="nofollow" target="_blank">
+  		<img alt="Tasin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
+				style="max-width: 100%;">
+	</a>
+</div>
+</p>
+<!-- Contact -->
+
+<!-- Statistics -->
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmZTUzNDkwMDFlNjBmMmRiZTdmOGJkMzU4YWRkZjBiMWVkMGE2YSZjdD1z/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Statistics
+
+<!-- Github Stats -->
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasinms/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tasinms&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinms&theme=radical&hide_border=true">
+  </a>
+</p>
+<br>
+
+<!-- Graph -->
+[![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Most Used Languages -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasinms/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<!-- Profile Visits -->
+<p align="center"><img src="https://profile-counter.glitch.me/{tasinms}/count.svg"></p>
+<!-- Statistics -->
 
 <!-- ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>
