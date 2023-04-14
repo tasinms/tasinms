@@ -99,6 +99,10 @@
   		<img alt="Tasin's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 				style="max-width: 100%;">
 	</a>
+	<a href="https://stackoverflow.com/users/21313320/tasinms" rel="nofollow" target="_blank">
+  		<img alt="Tasin's Stack Overflow" width="25px" src="./stackoverflow-color.svg" 
+				style="max-width: 100%;">
+	</a>
 </div>
 </p>
 <!-- Contact -->
