@@ -72,6 +72,8 @@
 </p>
 <!-- Databases -->
 
+
+
 <!-- Contact -->
 <p align="center"><b>Let's Get In Touch!</b></p>
 
@@ -82,15 +84,19 @@
 <p>
 <div align="center">
 	<a href="#" rel="nofollow" target="_blank">
-	 	<img alt="Tasin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
+	 	<img alt="Tasin's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
+		     style="max-width: 100%;">
+	</a>
+	<a href="https://www.facebook.com/tasinms" rel="nofollow" target="_blank">
+	 	<img alt="Tasin's Facebook" width="25px" src="./facebook-color.svg" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="#" rel="nofollow" target="_blank">
-  		<img alt=" Tasin's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
+  		<img alt=" Tasin's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://www.linkedin.com/in/tasinms/" rel="nofollow" target="_blank">
-  		<img alt="Tasin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
+  		<img alt="Tasin's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 				style="max-width: 100%;">
 	</a>
 </div>
