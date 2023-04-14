@@ -72,7 +72,14 @@
 </p>
 <!-- Databases -->
 
-
+<!-- WakaTime -->
+<p>
+<div align="center">
+	<a href="https://wakatime.com/@24163afc-2894-457c-8a8a-1218b958ad0b">
+	<img src="https://wakatime.com/badge/user/24163afc-2894-457c-8a8a-1218b958ad0b.svg" alt="Total time coded since Mar 12 2023" /></a>
+</div>
+</p>
+<!-- WakaTime -->
 
 <!-- Contact -->
 <p align="center"><b>Let's Get In Touch!</b></p>
