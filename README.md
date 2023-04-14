@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white">
 	<img src="https://img.shields.io/badge/Flask-white.svg?style=flat&logo=flask&logoColor=000000">
   <img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=flat&logo=latex&logoColor=008080">
+	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=3092c3">
 <!--   <img src="https://img.shields.io/badge/LaTex-008080.svg?style=flat&logo=latex&logoColor=FFFFFF"> -->
 </div>
 </p>
