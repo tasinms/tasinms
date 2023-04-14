@@ -1,7 +1,7 @@
 ![Header](./github-header-image-alt-02.png)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;I+Love+Learning;I+Love+Web+Development;I+Love+Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;AI;Web+Development;Machine+Learning" alt="Typing SVG" /></a>
 </p>
 
 <!-- <p>
