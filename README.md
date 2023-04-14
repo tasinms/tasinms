@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;I+Love+Learning;I+Love+Web+Development;I+Love+Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&repeat=false&width=500&lines=Hi%2C+I'm+Tasin" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I+Love+Learning;I+Love+Web+Development;I+Love+Machine+Learning" alt="Typing SVG" /></a>
 </p>
 
 <!-- <p>
@@ -7,51 +10,80 @@
   <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
   <img src="https://img.shields.io/github/followers/torrinworx?style=social">
   <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">	
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">
   </a>
 </div>
 </p> -->
 
+<!-- Languages -->
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
+</div>
+</p>
+
+<!-- Frameworks -->
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white">
+	<img src="https://img.shields.io/badge/Flask-white.svg?style=flat&logo=flask&logoColor=000000">
+  <img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=flat&logo=latex&logoColor=008080">
+<!--   <img src="https://img.shields.io/badge/LaTex-008080.svg?style=flat&logo=latex&logoColor=FFFFFF"> -->
+</div>
+</p>
+
+<!-- IDEs -->
+<p>
+<div align="center">
+	<img src="https://img.shields.io/badge/PyCharm-white.svg?style=flat&logo=pycharm&logoColor=black">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white">
+</div>
+</p>
+
+<!-- Operating Systems -->
+<p>
+<div align="center">
+	<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
+</div>
+</p>
+
+<!-- Git -->
+<p>
+<div align="center">
+	<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white">
+</div>
+</p>
+
+<!-- Databases -->
+<p>
+<div align="center">
+	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=black">
+</div>
+</p>
+
 <!-- <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Pycharm-5C2D91.svg?style=flat&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat&logo=StackExchange&logoColor=white">
 </div>
 </p> -->
 
 <!-- <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-005571?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-%23181717.svg?style=for-the-badge&logo=amazonaws&logoColor=white">	
-</div>
-</p> -->
-
-<!-- <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
-</div>
-</p> -->
-
-<!-- <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=flat&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
 </div>
 </p> -->
 
@@ -76,7 +108,7 @@
 <p align="left">
   <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=torrinworx&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">
   </a>
 </p>
 <br> -->
@@ -92,7 +124,7 @@
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p> -->
 
 <!-- ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
-<ul>			
+<ul>
 	<li><i><a href="https://github.com/torrinworx/Cozy-Auto-Texture">Cozy Auto Texture</a></i>:<ul><li>A Blender add-on that integrates the Stable Diffusion AI image generation model directly within Blender to make AI generated tiled textures available to everyone. (Under construction)</li></ul></li>
 	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i>:<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i>:<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
