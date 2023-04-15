@@ -134,7 +134,7 @@
 <p align="center">
   <a href="https://wakatime.com/@tasinms">
 <!--     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=8&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats">
+		<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=8&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats">
   </a>
 </p>
 
