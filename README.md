@@ -130,12 +130,15 @@
 <!-- Graph -->
 [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Most Used Languages -->
+<!-- Language Stats -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tasinms/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <a href="https://wakatime.com/@tasinms">
+<!--     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact"> -->
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=8&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats">
   </a>
 </p>
+
+<!-- [![tasins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&theme=radical&layout=compact&hide_border=true)](https://github.com/tasinms) -->
 
 <!-- Profile Visits -->
 <p align="center"><img src="https://profile-counter.glitch.me/{tasinms}/count.svg"></p>
