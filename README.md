@@ -128,7 +128,7 @@
 <br>
 
 <!-- Graph -->
-[![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Language Stats -->
 <p align="center">
