@@ -1,9 +1,5 @@
 ![Header](./github-header-image-alt-large-border-02.png)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;Web+Development;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" /></a>
-</p>
-
 <!-- <p>
 <div align="center" target="_blank">
   <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
@@ -12,6 +8,21 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">
   </a>
 </div>
+</p> -->
+
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" />
+	<br>
+	<br>
+    <img src="https://skillicons.dev/icons?i=flask,react,nextjs,prisma,materialui,latex" />
+	<br>
+	<br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
+	<br>
+	<br>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+  </a>
 </p> -->
 
 <!-- Languages -->
