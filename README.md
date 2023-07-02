@@ -1,7 +1,7 @@
 ![Header](./github-header-image-alt-large-border-02.png)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;Web+Development;Artificial+Intelligence;Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- <p>
@@ -50,6 +50,7 @@
 	<img src="https://img.shields.io/badge/Next.js-white.svg?style=flat&logo=next.js&logoColor=black">
 	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=3092c3">
   <img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=flat&logo=latex&logoColor=008080">
+  <img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=flat&logo=mui&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/LaTex-008080.svg?style=flat&logo=latex&logoColor=FFFFFF"> -->
 </div>
 </p>
@@ -122,10 +123,10 @@
 	 	<img alt="Tasin's Facebook" width="25px" src="./facebook-color.svg" 
 		     style="max-width: 100%;">
 	</a>
-	<a href="#" rel="nofollow" target="_blank">
+<!-- 	<a href="#" rel="nofollow" target="_blank">
   		<img alt=" Tasin's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
 		     style="max-width: 100%;">
-	</a>
+	</a> -->
 	<a href="https://www.linkedin.com/in/tasinms/" rel="nofollow" target="_blank">
   		<img alt="Tasin's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
 				style="max-width: 100%;">
