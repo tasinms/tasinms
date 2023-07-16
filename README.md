@@ -151,6 +151,10 @@
   		<img alt="Stack Overflow" width="25px" src="./stackoverflow-color.svg" 
 				style="max-width: 100%;">
 	</a>
+	<a href="https://www.reddit.com/user/tasinms" rel="nofollow" target="_blank">
+  		<img alt="Stack Overflow" width="25px" src="./reddit.png" 
+				style="max-width: 100%;">
+	</a>
 </div>
 </p>
 <!-- Contact -->
