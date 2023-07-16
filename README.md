@@ -132,11 +132,11 @@
 <p>
 <div align="center">
 	<a href="#" rel="nofollow" target="_blank">
-	 	<img alt="Tasin's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" 
+	 	<img alt="Discord" width="25px" src="./discord.png" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://www.facebook.com/tasinms" rel="nofollow" target="_blank">
-	 	<img alt="Tasin's Facebook" width="25px" src="./facebook-color.svg" 
+	 	<img alt="Facebook" width="25px" src="./facebook.png" 
 		     style="max-width: 100%;">
 	</a>
 <!-- 	<a href="#" rel="nofollow" target="_blank">
@@ -144,11 +144,11 @@
 		     style="max-width: 100%;">
 	</a> -->
 	<a href="https://www.linkedin.com/in/tasinms/" rel="nofollow" target="_blank">
-  		<img alt="Tasin's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" 
+  		<img alt="LinkedIn" width="25px" src="./linkedin.png" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://stackoverflow.com/users/21313320/tasinms" rel="nofollow" target="_blank">
-  		<img alt="Tasin's Stack Overflow" width="25px" src="./stackoverflow-color.svg" 
+  		<img alt="Stack Overflow" width="25px" src="./stackoverflow-color.svg" 
 				style="max-width: 100%;">
 	</a>
 </div>
