@@ -175,14 +175,14 @@
 <br>
 
 <!-- Graph -->
-<!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true&bg_color=000046&line=ff1cdb&point=ffffff&title_color=25cfff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Language Stats -->
 <p align="center">
   <a href="https://wakatime.com/@tasinms">
-<!--     <img width="41.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0"> -->
-		<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
+<!-- <img width="41.3%" src="https://githubreadmestats.vercel.app/api/toplangs/username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0"> -->
+	<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
   </a>
 </p>
 
