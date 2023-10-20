@@ -32,9 +32,9 @@
 <!-- Programming Languages -->
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF">
 </div>
 </p>
 <!-- Programming Languages -->
@@ -43,9 +43,9 @@
 <!-- Markup Languages -->
 <p>
 <div align="center">
-  	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
-  	<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
-	<img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=flat&logo=latex&logoColor=008080">
+  	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  	<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+	<img src="https://img.shields.io/badge/LaTex-FFFFFF.svg?style=for-the-badge&logo=latex&logoColor=008080">
 </div>
 </p>
 <!-- Markup Languages -->
@@ -54,9 +54,9 @@
 <!-- Frameworks -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Next.js-white.svg?style=flat&logo=next.js&logoColor=black">
-  	<img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white">
-	<img src="https://img.shields.io/badge/Flask-white.svg?style=flat&logo=flask&logoColor=000000">
+	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
+  	<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+	<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000">
 </div>
 </p>
 <!-- Frameworks -->
@@ -65,9 +65,9 @@
 <!-- Libraries -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/React.js-282c34?style=flat&logo=react&logoColor=61DAFB">
-  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=flat&logo=mui&logoColor=white">
-	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=3092c3">
+	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
+  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
+	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=3092c3">
 </div>
 </p>
 <!-- Libraries -->
@@ -76,10 +76,10 @@
 <!-- Databases -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=black">
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=flat&logo=mongodb&logoColor=47A248">
-	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=prisma&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black">
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
+	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
 </div>
 </p>
 <!-- Databases -->
@@ -97,8 +97,8 @@
 <!-- Operating Systems -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white">
-  	<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
+	<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+  	<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 </p>
 <!-- Operating Systems -->
@@ -106,8 +106,8 @@
 <!-- Git -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white">
-  	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  	<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </p>
 <!-- Git -->
