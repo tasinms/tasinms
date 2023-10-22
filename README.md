@@ -167,10 +167,8 @@
 <!-- Github Stats -->
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tasinms/">
     <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=tasinms&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=0">
     <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinms&theme=radical&hide_border=true&border_radius=0">
-  </a>
 </p>
 <br>
 
