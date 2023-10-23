@@ -51,7 +51,7 @@
 <!-- Markup Languages -->
 
 
-<!-- Frameworks -->
+<!-- Back-End -->
 <p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
@@ -59,18 +59,29 @@
 	<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000">
 </div>
 </p>
-<!-- Frameworks -->
+<!-- Back-End -->
 
 
-<!-- Libraries -->
+<!-- Front-End -->
 <p>
 <div align="center">
 	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
-  	<img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
-	<img src="https://img.shields.io/badge/scikit%20learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=3092c3">
+  	<img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
+  	<img src="https://img.shields.io/badge/Tailwind_CSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
 </div>
 </p>
-<!-- Libraries -->
+<!-- Front-End -->
+
+
+<!-- Machine Learning -->
+<p>
+<div align="center">
+	<img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=3092c3">
+	<img src="https://img.shields.io/badge/pandas-1a0f59.svg?style=for-the-badge&logo=pandas&logoColor=white">
+	<img src="https://img.shields.io/badge/Numpy-4c78d0.svg?style=for-the-badge&logo=numpy&logoColor=4cadd0">
+</div>
+</p>
+<!-- Machine Learning -->
 
 
 <!-- Databases -->
