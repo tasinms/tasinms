@@ -54,9 +54,9 @@
 <!-- Back-End -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Next.js-white.svg?style=for-the-badge&logo=next.js&logoColor=black">
-  	<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 	<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000">
+  	<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+	<img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 </p>
 <!-- Back-End -->
@@ -137,7 +137,7 @@
 <p align="center"><b>Let's Get In Touch!</b></p>
 
 <!-- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&repeat=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&repeat=false&width=500&lines=Let's+Get+In Touch!" alt="Typing SVG" /></a>
 </p> -->
 
 <p>
