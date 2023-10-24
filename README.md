@@ -78,7 +78,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/scikit_learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=3092c3">
 	<img src="https://img.shields.io/badge/pandas-1a0f59.svg?style=for-the-badge&logo=pandas&logoColor=white">
-	<img src="https://img.shields.io/badge/Numpy-4c78d0.svg?style=for-the-badge&logo=numpy&logoColor=4cadd0">
+	<img src="https://img.shields.io/badge/Numpy-4cadd0.svg?style=for-the-badge&logo=numpy&logoColor=4c78d0">
 </div>
 </p>
 <!-- Machine Learning -->
