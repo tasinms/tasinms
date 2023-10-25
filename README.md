@@ -137,7 +137,7 @@
 	 	<img alt="Facebook" width="25px" src="./facebook.png" 
 		     style="max-width: 100%;">
 	</a>
-<!-- 	<a href="#" rel="nofollow" target="_blank">
+   <!-- <a href="#" rel="nofollow" target="_blank">
   		<img alt=" Tasin's Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" 
 		     style="max-width: 100%;">
 	</a> -->
@@ -164,8 +164,8 @@
 <!-- Github Stats -->
 <br/>
 <p align="center">
-    <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=tasinms&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&border_radius=0">
-    <img width="50.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinms&theme=radical&hide_border=true&border_radius=0">
+    <img width="40.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
+    <img width="59.0%" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinms&theme=radical&hide_border=true&border_radius=8">
 </p>
 <br>
 
@@ -192,7 +192,7 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2ZmM5NmY2MzVlZDAwMDlmZWIyNTQ0YjNlYTMwN2U0OGFlMjJlZCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Ongoing Projects
 <ul>
 	<li><i><a href="#">Dataset Creation</a></i><ul><li>Creating a Dataset of Movie Box Office Numbers using Python's BeautifulSoup Library</li></ul></li>
-<!-- 	<li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i> :<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
+   <!-- <li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i> :<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
 	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i> :<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
 	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li> -->
 </ul>
