@@ -165,7 +165,7 @@
 <br/>
 <p align="center">
     <img width="40.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
-    <img width="59.0%" src="https://github-readme-streak-stats.herokuapp.com/?user=tasinms&theme=radical&hide_border=true&border_radius=8">
+    <img width="59.0%" src="https://streak-stats.demolab.com/?user=tasinms&theme=radical&hide_border=true">
 </p>
 <br>
 
