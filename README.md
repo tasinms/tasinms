@@ -1,33 +1,17 @@
-![Header](./github-header-image-alt-large-border-02.png)
+<!-- Banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="./github-header-image-alt-large-border-02.png"/>
+  </a>
+</p>
+<!-- Banner -->
 
+
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1CDB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tasin;Software+Engineer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
+<!-- Typing SVG -->
 
-<!-- <p>
-<div align="center" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/LeonardTorrin?style=social">
-  <img src="https://img.shields.io/github/followers/torrinworx?style=social">
-  <a href="https://www.youtube.com/c/ThisCozyStudio" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCARiKfuoSghM6DeieqWylYQ?style=social">
-  </a>
-</div>
-</p> -->
-
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" />
-	<br>
-	<br>
-    <img src="https://skillicons.dev/icons?i=flask,react,nextjs,prisma,materialui,latex" />
-	<br>
-	<br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
-	<br>
-	<br>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-  </a>
-</p> -->
 
 <!-- Programming Languages -->
 <p>
@@ -105,6 +89,7 @@
 </p>
 <!-- IDEs -->
 
+
 <!-- Operating Systems -->
 <p>
 <div align="center">
@@ -113,6 +98,7 @@
 </div>
 </p>
 <!-- Operating Systems -->
+
 
 <!-- Git -->
 <p>
@@ -132,6 +118,7 @@
 </div>
 </p>
 <!-- WakaTime -->
+
 
 <!-- Contact -->
 <p align="center"><b>Let's Get In Touch!</b></p>
@@ -174,7 +161,6 @@
 <!-- Statistics -->
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmZTUzNDkwMDFlNjBmMmRiZTdmOGJkMzU4YWRkZjBiMWVkMGE2YSZjdD1z/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Statistics
 
-
 <!-- Github Stats -->
 <br/>
 <p align="center">
@@ -184,22 +170,23 @@
 <br>
 
 <!-- Graph -->
-<!-- [![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true&bg_color=000046&line=ff1cdb&point=ffffff&title_color=25cfff)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Tasin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true">
+  </a>
+</p>
 
 <!-- Language Stats -->
 <p align="center">
   <a href="https://wakatime.com/@tasinms">
-<!-- <img width="41.3%" src="https://githubreadmestats.vercel.app/api/toplangs/username=tasinms&theme=radical&bg_color=141321&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0"> -->
 	<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
   </a>
 </p>
 
-<!-- [![tasins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&theme=radical&layout=compact&hide_border=true)](https://github.com/tasinms) -->
-
 <!-- Profile Visits -->
 <p align="center"><img src="https://profile-counter.glitch.me/{tasinms}/count.svg"></p>
 <!-- Statistics -->
+
 
 <!-- Ongoing Projects -->
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU2ZmM5NmY2MzVlZDAwMDlmZWIyNTQ0YjNlYTMwN2U0OGFlMjJlZCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Ongoing Projects
@@ -211,9 +198,9 @@
 </ul>
 <!-- Ongoing Projects -->
 
+
 <!-- About Me -->
 <!-- # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
 
 Under Contruction 🚧 -->
-
 <!-- About Me -->
