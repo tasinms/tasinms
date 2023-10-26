@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="./github-header-image-alt-large-border-02.png"/>
+  <a href="https://git.io/typing-svg"><img src="./GitHub Profile Banner.png"/>
   </a>
 </p>
 <!-- Banner -->
@@ -81,12 +81,12 @@
 
 
 <!-- IDEs -->
-<p>
-<!-- <div align="center">
+<!-- <p>
+<div align="center">
 	<img src="https://img.shields.io/badge/PyCharm-white.svg?style=flat&logo=pycharm&logoColor=black">
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white">
-</div> -->
-</p>
+</div>
+</p> -->
 <!-- IDEs -->
 
 
@@ -146,7 +146,7 @@
 				style="max-width: 100%;">
 	</a>
 	<a href="https://stackoverflow.com/users/21313320/tasinms" rel="nofollow" target="_blank">
-  		<img alt="Stack Overflow" width="25px" src="./stackoverflow-color.svg" 
+  		<img alt="Stack Overflow" width="25px" src="./stackoverflow.svg" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://www.reddit.com/user/tasinms" rel="nofollow" target="_blank">
