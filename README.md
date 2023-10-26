@@ -162,24 +162,22 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmZTUzNDkwMDFlNjBmMmRiZTdmOGJkMzU4YWRkZjBiMWVkMGE2YSZjdD1z/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Statistics
 
 <!-- Github Stats -->
-<br/>
 <p align="center">
-    <img width="40.0%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
-    <img width="59.0%" src="https://streak-stats.demolab.com/?user=tasinms&theme=radical&hide_border=true">
+    <img width="39.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
+    <img width="59.3%" src="https://streak-stats.demolab.com/?user=tasinms&theme=radical&hide_border=true&border_radius=6">
 </p>
-<br>
 
 <!-- Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true&radius=10">
   </a>
 </p>
 
 <!-- Language Stats -->
 <p align="center">
   <a href="https://wakatime.com/@tasinms">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=0">
+	<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=5">
   </a>
 </p>
 
