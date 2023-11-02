@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1cdb,100:000046&height=100&section=header"/>
-
-
 <!-- Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="./GitHub Profile Banner.png"/>
