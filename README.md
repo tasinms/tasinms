@@ -71,7 +71,7 @@
 <!-- Databases -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black">
+	<img src="https://img.shields.io/badge/MySQL-00618a.svg?style=for-the-badge&logo=mysql&logoColor=e48e00">
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
 	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
