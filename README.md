@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="./GitHub Profile Banner.png"/>
+  <a href="https://git.io/typing-svg"><img src="./GitHub Profile Banner Redesign.png"/>
   </a>
 </p>
 <!-- Banner -->
