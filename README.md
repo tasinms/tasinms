@@ -153,6 +153,10 @@
   		<img alt="Stack Overflow" width="25px" src="./reddit.png" 
 				style="max-width: 100%;">
 	</a>
+	<a href="https://g.dev/tasinms" rel="nofollow" target="_blank">
+  		<img alt="Google Developer" width="25px" src="./google.png" 
+				style="max-width: 100%;">
+	</a>
 </div>
 </p>
 <!-- Contact -->
