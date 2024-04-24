@@ -202,18 +202,25 @@
 
 
 <!-- Publications -->
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxicWlqaGpwODlqZ2VxMHAydG94aTBsaXV1NHhqbnU4bW4wZGdjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh7FMlRTsgB8lO8WKJ/giphy.gif" width="30"> Publications
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF6aDl4d213eGY1d3g0cXRmaDY2YXM2ajZ4anY1MjBsY2Ixamk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1RyK0zbP19EHwhshD/giphy.gif" width="30"> Publications
 <ul>
 	<li>
 			<a href="https://ieeexplore.ieee.org/document/10441420">
 				Skin Lesion Detection and Classification Using Machine Learning: A Comprehensive Approach for Accurate Diagnosis and Treatment
 			</a>
 	</li>
-   <!-- <li><i><a href="https://github.com/torrinworx/Blend_My_NFTs">Blend_My_NFTs</a></i> :<ul><li>A Blender add-on that makes creating a 3D NFT collection easy! Generate thousands of 3D models, animations, or images with this simple add-on. (Released)</li></ul></li>
-	<li><i><a href="https://www.thiscozystudio.com/">ThisCozyStudio.com (SAS)</a></i> :<ul><li>A website that enables easy cloud rendering and NFT minting and storage from the web or withing Blender using our Cozy API. (Yet to be released)</li></ul></li>
-	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li> -->
 </ul>
 <!-- Publications -->
+
+
+<!-- Academics -->
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0bXZ1M2ZwNWo4anJkemt6dmNja3gzMmlrZm96YmE0OGhmeDc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"> Academics
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="./BRACU Logo.png"/>](https://www.bracu.ac.bd/)
+[**BRAC University**](https://www.bracu.ac.bd/) \
+**B.Sc. in Computer Science** • 2020-2024 \
+Skills: `Python` `MySQL` `Data Science` `Machine Learning` `Natural Language Processing (NLP)` 
+<!-- Academics -->
 
 
 <!-- About Me -->
