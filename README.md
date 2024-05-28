@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="./GitHub Profile Banner Redesign.png"/>
+  <a href="https://git.io/typing-svg"><img src="Banners/GitHub Profile Banner New Redesign.png"/>
   </a>
 </p>
 <!-- Banner -->
@@ -141,11 +141,11 @@
 <p>
 <div align="center">
 	<a href="#" rel="nofollow" target="_blank">
-	 	<img alt="Discord" width="25px" src="./discord.png" 
+	 	<img alt="Discord" width="25px" src="Icons/discord.png" 
 		     style="max-width: 100%;">
 	</a>
 	<a href="https://www.facebook.com/tasinms" rel="nofollow" target="_blank">
-	 	<img alt="Facebook" width="25px" src="./facebook.png" 
+	 	<img alt="Facebook" width="25px" src="Icons/facebook.png" 
 		     style="max-width: 100%;">
 	</a>
    <!-- <a href="#" rel="nofollow" target="_blank">
@@ -153,19 +153,19 @@
 		     style="max-width: 100%;">
 	</a> -->
 	<a href="https://www.linkedin.com/in/tasinms/" rel="nofollow" target="_blank">
-  		<img alt="LinkedIn" width="25px" src="./linkedin.png" 
+  		<img alt="LinkedIn" width="25px" src="Icons/linkedin.png" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://stackoverflow.com/users/21313320/tasinms" rel="nofollow" target="_blank">
-  		<img alt="Stack Overflow" width="25px" src="./stackoverflow.svg" 
+  		<img alt="Stack Overflow" width="25px" src="Icons/stackoverflow.svg" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://www.reddit.com/user/tasinms" rel="nofollow" target="_blank">
-  		<img alt="Stack Overflow" width="25px" src="./reddit.png" 
+  		<img alt="Stack Overflow" width="25px" src="Icons/reddit.png" 
 				style="max-width: 100%;">
 	</a>
 	<a href="https://g.dev/tasinms" rel="nofollow" target="_blank">
-  		<img alt="Google Developer" width="25px" src="./google.png" 
+  		<img alt="Google Developer" width="25px" src="Icons/google.png" 
 				style="max-width: 100%;">
 	</a>
 </div>
@@ -227,7 +227,7 @@
 <!-- Academics -->
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWl0bXZ1M2ZwNWo4anJkemt6dmNja3gzMmlrZm96YmE0OGhmeDc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"> Academics
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="./BRACU Logo.png"/>](https://www.bracu.ac.bd/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="Logos/BRACU Logo.png"/>](https://www.bracu.ac.bd/)
 [**BRAC University**](https://www.bracu.ac.bd/) \
 **B.Sc. in Computer Science** • 2020-2024 \
 Skills: `Python` `MySQL` `Data Science` `Machine Learning` `Natural Language Processing (NLP)` 
