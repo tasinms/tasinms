@@ -140,10 +140,10 @@
 
 <p>
 <div align="center">
-	<a href="#" rel="nofollow" target="_blank">
+   <!--	<a href="#" rel="nofollow" target="_blank">
 	 	<img alt="Discord" width="25px" src="Icons/discord.png" 
 		     style="max-width: 100%;">
-	</a>
+	</a> -->
 	<a href="https://www.facebook.com/tasinms" rel="nofollow" target="_blank">
 	 	<img alt="Facebook" width="25px" src="Icons/facebook.png" 
 		     style="max-width: 100%;">
