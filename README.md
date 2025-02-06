@@ -216,9 +216,14 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF6aDl4d213eGY1d3g0cXRmaDY2YXM2ajZ4anY1MjBsY2Ixamk2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y1RyK0zbP19EHwhshD/giphy.gif" width="30"> Publications
 <ul>
 	<li>
-			<a href="https://ieeexplore.ieee.org/document/10441420">
-				Skin Lesion Detection and Classification Using Machine Learning: A Comprehensive Approach for Accurate Diagnosis and Treatment
-			</a>
+		<a href="https://ieeexplore.ieee.org/document/10441420">
+			Skin Lesion Detection and Classification Using Machine Learning: A Comprehensive Approach for Accurate Diagnosis and Treatment
+		</a>
+	</li>
+	<li>
+		<a href="https://ieeexplore.ieee.org/document/10839652">
+			Prediction of Movie Box Office Success Using YouTube Trailer Comments and Wikipedia Data
+		</a>
 	</li>
 </ul>
 <!-- Publications -->
