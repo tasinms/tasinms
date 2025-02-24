@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF">
+<!--   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF"> -->
 </div>
 </p>
 <!-- Programming Languages -->
@@ -49,9 +49,9 @@
 <!-- Back-End -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000">
-  	<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-	<img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white">
+<!-- 	<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000"> -->
+<!--   	<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"> -->
+<!-- 	<img src="https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"> -->
 </div>
 </p>
 <!-- Back-End -->
@@ -60,7 +60,7 @@
 <!-- Front-End -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB">
+<!-- 	<img src="https://img.shields.io/badge/React.js-282c34?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
   	<img src="https://img.shields.io/badge/Material_UI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
   	<img src="https://img.shields.io/badge/Tailwind_CSS-white.svg?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4">
 </div>
@@ -82,10 +82,10 @@
 <!-- Databases -->
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/MySQL-00618a.svg?style=for-the-badge&logo=mysql&logoColor=e48e00">
-	<img src="https://img.shields.io/badge/PostgreSQL-2f6792.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=47A248">
-	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white">
+<!-- 	<img src="https://img.shields.io/badge/MySQL-00618a.svg?style=for-the-badge&logo=mysql&logoColor=e48e00"> -->
+<!-- 	<img src="https://img.shields.io/badge/PostgreSQL-2f6792.svg?style=for-the-badge&logo=postgresql&logoColor=white"> -->
+<!-- 	<img src="https://img.shields.io/badge/MongoDB-001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=47A248"> -->
+<!-- 	<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"> -->
 </div>
 </p>
 <!-- Databases -->
