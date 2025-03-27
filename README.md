@@ -178,8 +178,9 @@
 
 <!-- Github Stats -->
 <p align="center">
-    <img width="39.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
-    <img width="59.3%" src="https://streak-stats.demolab.com/?user=tasinms&theme=radical&hide_border=true&border_radius=6">
+    <img width="32.4%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasinms&theme=radical">
+<!--     <img width="59.3%" src="https://streak-stats.demolab.com/?user=tasinms&theme=radical&hide_border=true&border_radius=6"> -->
+    <img width="66.6%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasinms&theme=radical">
 </p>
 
 <!-- Graph -->
