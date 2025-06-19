@@ -183,13 +183,16 @@
 </p>
 
 <!-- Graph -->
+<!--
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasinms&theme=redical&hide_border=true&radius=10">
   </a>
 </p>
+-->
 
 <!-- Language Stats -->
+
 <p align="center">
   <a href="https://wakatime.com/@tasinms">
 	<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tasinms&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=WakaTime%20Stats&border_radius=5">
